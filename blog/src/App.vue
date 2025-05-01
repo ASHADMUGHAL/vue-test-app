@@ -1,6 +1,9 @@
 <template>
   <!-- Uncomment the line below to pass data or leave it to use default values -->
-  <homePage />
+  <div>
+    <homePage />
+    <p>This is Change</p>
+  </div>
   <!-- <ProductCard />  This would use default values instead of passed data -->
 </template>
 
